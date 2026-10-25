@@ -1,0 +1,25 @@
+.venv/
+node_modules/
+frontend/dist/
+data/
+.pytest_cache/
+__pycache__/
+*.pyc
+dependency-install.json
+.env*
+*.log
+*.tsbuildinfo
+
+# Local project history, generated media, and account diagnostics.
+ap-vibe-pending/
+output/
+docs/screenshots/
+docs/*.jpg
+docs/*.png
+docs/*.json
+scripts/record_*.py
+*.lnk
+*.sqlite3*
+*.db
+*.pem
+*.key

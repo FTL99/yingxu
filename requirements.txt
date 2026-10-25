@@ -1,0 +1,9 @@
+fastapi==0.142.2
+uvicorn==0.54.0
+python-multipart==0.0.32
+httpx==0.28.1
+pillow==12.3.0
+imageio-ffmpeg==0.6.0
+deepseek-harness-sdk==0.1.5rc1
+deepseek-harness-runtime-bin==0.1.5rc1
+pytest==9.1.1
